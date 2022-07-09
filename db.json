@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Asus Laptop",
+      "category": "Electronics",
+      "date": "2022-07-21T18:30:00.000Z",
+      "status": "Brand New",
+      "price": 4000,
+      "comment": "Gaming Laptop",
+      "id": 4
+    },
+    {
+      "productName": "Tagg Bluetooth Speaker",
+      "category": "Electronics",
+      "date": "2022-07-29T18:30:00.000Z",
+      "status": "Second Hand",
+      "price": 150,
+      "comment": "In very good condition",
+      "id": 5
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "date": "2022-07-19T18:30:00.000Z",
+      "status": "Brand New",
+      "price": 50,
+      "comment": "Fresh",
+      "id": 7
+    },
+    {
+      "productName": "Oneplus buds",
+      "category": "Electronics",
+      "date": "2022-07-17T18:30:00.000Z",
+      "status": "Refurbished",
+      "price": 300,
+      "comment": "Very Good Sound quality",
+      "id": 8
+    },
+    {
+      "productName": "HP laptop",
+      "category": "Electronics",
+      "date": "2022-07-30T18:30:00.000Z",
+      "status": "Brand New",
+      "price": 3000,
+      "comment": "HP Original product",
+      "id": 9
+    },
+    {
+      "productName": "Samsung S10",
+      "category": "Electronics",
+      "date": "2022-07-14T18:30:00.000Z",
+      "status": "Brand New",
+      "price": 500,
+      "comment": "Good processor",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
